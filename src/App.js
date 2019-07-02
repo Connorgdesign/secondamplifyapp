@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Test Amplify App With AWS</h1>
+        <h1>Test Amplify App</h1>
       </div>
     );
   }
