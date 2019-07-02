@@ -10,7 +10,7 @@
     "autoVerifiedAttributes": [
         "email"
     ],
-    "mfaConfiguration": "OFF",
+    "mfaConfiguration": "OPTIONAL",
     "mfaTypes": [
         "SMS Text Message"
     ],
@@ -64,8 +64,15 @@
             "Arn"
         ]
     },
-    "useDefault": "default",
+    "useDefault": "manual",
     "usernameAttributes": [
         "email"
-    ]
+    ],
+    "thirdPartyAuth": true,
+    "authProviders": [],
+    "hostedUI": true,
+    "hostedUIDomainName": "secondamplifyapp4228605e-4228605e",
+    "authProvidersUserPool": [],
+    "hostedUIProviderMeta": "[]",
+    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"https://master.d30w3ve6cov4ha.amplifyapp.com/\"],\"LogoutURLs\":[\"https://master.d30w3ve6cov4ha.amplifyapp.com/\"]}"
 }

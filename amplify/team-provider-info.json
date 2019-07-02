@@ -12,7 +12,9 @@
         },
         "categories": {
             "auth": {
-                "secondamplifyapp5c271720": {}
+                "secondamplifyapp5c271720": {
+                    "hostedUIProviderCreds": "[]"
+                }
             }
         }
     }
