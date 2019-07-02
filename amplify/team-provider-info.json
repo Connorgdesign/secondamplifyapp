@@ -1,0 +1,19 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "secondamplifyapp-prod-20190702074713-authRole",
+            "UnauthRoleArn": "arn:aws:iam::931169284943:role/secondamplifyapp-prod-20190702074713-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::931169284943:role/secondamplifyapp-prod-20190702074713-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "secondamplifyapp-prod-20190702074713-deployment",
+            "UnauthRoleName": "secondamplifyapp-prod-20190702074713-unauthRole",
+            "StackName": "secondamplifyapp-prod-20190702074713",
+            "StackId": "arn:aws:cloudformation:us-west-2:931169284943:stack/secondamplifyapp-prod-20190702074713/47b82430-9cd8-11e9-9e60-02a37d7e05c4"
+        },
+        "categories": {
+            "auth": {
+                "secondamplifyapp5c271720": {}
+            }
+        }
+    }
+}

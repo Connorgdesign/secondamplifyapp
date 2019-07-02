@@ -1,0 +1,8 @@
+{
+	"auth": {
+		"secondamplifyapp5c271720": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
